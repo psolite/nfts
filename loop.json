@@ -1,0 +1,12 @@
+{
+    "name": "Hedge Loop Collection",
+    "symbol": "HedgeLoop",
+    "description": "This is an Hedge Loop NFT Testnet collection.",
+    "image": "https://arweave.net/your_image_link_here",
+    "attributes": [
+      {
+        "trait_type": "Special Trait",
+        "value": "Unique Value"
+      }
+    ]
+  }
