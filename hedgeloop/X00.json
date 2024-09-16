@@ -5,8 +5,32 @@
   "image": "https://raw.githubusercontent.com/psolite/nfts/main/hedgeloop/X00.png",
   "attributes": [
     {
-      "trait_type": "Special Trait",
-      "value": "Unique Value"
-    }
+      "trait_type": "Body",
+      "value": "Black"
+     },
+     {
+      "trait_type": "Background",
+      "value": "Green"
+     },
+     {
+      "trait_type": "Ears",
+      "value": "White"
+     },
+     {
+      "trait_type": "Mouth",
+      "value": "Won"
+     },
+     {
+      "trait_type": "Eyes",
+      "value": "Green"
+     },
+     {
+      "trait_type": "Hat",
+      "value": "Black"
+     },
+     {
+      "trait_type": "Clothes",
+      "value": "Green"
+     }
   ]
 }
